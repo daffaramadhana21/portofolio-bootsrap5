@@ -1,9 +1,5 @@
-body {
-  min-height: 3000px;
-}
-
 .jumbotron {
-  padding-top: 5rem;
+  padding-top: 6rem;
   background-color: #e2edff;
 }
 
@@ -13,4 +9,8 @@ body {
 
 .card {
   border-radius: 10px;
+}
+
+section {
+  padding-top: 5rem;
 }
